@@ -1,0 +1,1 @@
+pyinstaller -F main.py --clean --distpath ./ -n Office365Checker.exe
